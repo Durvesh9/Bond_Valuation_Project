@@ -143,7 +143,7 @@ The project generates:
 ### **Sheet 1 — Bond Valuation**
 
 * **Fair Value:** DCF-based fair price
-* **Modified Duration:** % price change for +1% interest rate
+* **Modified Duration:** 5% price change for +1% interest rate
 * **Convexity:** Protection from curvature in price-yield curve
 
 ### **Sheet 2 — Time-Series Analysis**
